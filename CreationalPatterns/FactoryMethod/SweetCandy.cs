@@ -2,12 +2,12 @@ namespace FactoryMethod;
 
 public class SweetCandy : Candy
 {
-    public string Name()
+    public override string Name()
     {
         return "Sweet Candy";
     }
 
-    public int Sweetness()
+    public override int Sweetness()
     {
         return 10;
     }

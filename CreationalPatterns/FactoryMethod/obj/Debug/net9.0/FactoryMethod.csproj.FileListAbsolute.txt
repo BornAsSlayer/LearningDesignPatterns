@@ -1,0 +1,15 @@
+D:\Code\Csharp\vs\DesignPatterns\CreationalPatterns\FactoryMethod\obj\Debug\net9.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Csharp\vs\DesignPatterns\CreationalPatterns\FactoryMethod\obj\Debug\net9.0\FactoryMethod.AssemblyInfoInputs.cache
+D:\Code\Csharp\vs\DesignPatterns\CreationalPatterns\FactoryMethod\obj\Debug\net9.0\FactoryMethod.AssemblyInfo.cs
+D:\Code\Csharp\vs\DesignPatterns\CreationalPatterns\FactoryMethod\obj\Debug\net9.0\FactoryMethod.csproj.CoreCompileInputs.cache
+D:\Code\Csharp\vs\DesignPatterns\CreationalPatterns\FactoryMethod\obj\Debug\net9.0\FactoryMethod.sourcelink.json
+D:\Code\Csharp\vs\DesignPatterns\CreationalPatterns\FactoryMethod\bin\Debug\net9.0\FactoryMethod.exe
+D:\Code\Csharp\vs\DesignPatterns\CreationalPatterns\FactoryMethod\bin\Debug\net9.0\FactoryMethod.deps.json
+D:\Code\Csharp\vs\DesignPatterns\CreationalPatterns\FactoryMethod\bin\Debug\net9.0\FactoryMethod.runtimeconfig.json
+D:\Code\Csharp\vs\DesignPatterns\CreationalPatterns\FactoryMethod\bin\Debug\net9.0\FactoryMethod.dll
+D:\Code\Csharp\vs\DesignPatterns\CreationalPatterns\FactoryMethod\bin\Debug\net9.0\FactoryMethod.pdb
+D:\Code\Csharp\vs\DesignPatterns\CreationalPatterns\FactoryMethod\obj\Debug\net9.0\FactoryMethod.dll
+D:\Code\Csharp\vs\DesignPatterns\CreationalPatterns\FactoryMethod\obj\Debug\net9.0\refint\FactoryMethod.dll
+D:\Code\Csharp\vs\DesignPatterns\CreationalPatterns\FactoryMethod\obj\Debug\net9.0\FactoryMethod.pdb
+D:\Code\Csharp\vs\DesignPatterns\CreationalPatterns\FactoryMethod\obj\Debug\net9.0\FactoryMethod.genruntimeconfig.cache
+D:\Code\Csharp\vs\DesignPatterns\CreationalPatterns\FactoryMethod\obj\Debug\net9.0\ref\FactoryMethod.dll
