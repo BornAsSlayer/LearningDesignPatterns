@@ -1,0 +1,1 @@
+I used this [Youtube](https://www.youtube.com/watch?v=q6xHRXI93sM) video to learn both Simple Factory and FullFactory.
