@@ -1,6 +1,6 @@
 namespace FactoryMethod;
 
-public class FullFactorySweetCandy : FullFactoryCandyStore
+public class FullFactorySweetCandyStore : FullFactoryCandyStore
 {
     public override Candy GetCandy()
     {

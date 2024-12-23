@@ -1,4 +1,6 @@
-﻿namespace FactoryMethod;
+﻿using FactoryMethod.AbstractFactoryImplementation;
+
+namespace FactoryMethod;
 
 public class Program
 {
@@ -14,10 +16,18 @@ public class Program
         //full factory Implementation
         Console.WriteLine("full factory Implementation");
 
-        var fullFactorySourCandy = new FullFactorySourCandy();
-        var fullFactorySweetCandy = new FullFactorySweetCandy();
-        fullFactorySourCandy.SellCandy();
-        fullFactorySweetCandy.SellCandy();
+        var fullFactorySourCandyStore = new FullFactorySourCandyStore();
+        var fullFactorySweetCandyStore = new FullFactorySweetCandyStore();
+        fullFactorySourCandyStore.SellCandy();
+        fullFactorySweetCandyStore.SellCandy();
+
+        //abstract factory Implementation
+        Console.WriteLine("full factory Implementation");
+
+        var abstractFactorySourCandyStore = new AbstractFactorySourCandyStore();
+        var abstractFactorySweetCandyStore = new AbstractFactorySweetCandyStore();
+        abstractFactorySourCandyStore.SellCandy();
+        abstractFactorySweetCandyStore.SellCandy();
 
     }
 }
