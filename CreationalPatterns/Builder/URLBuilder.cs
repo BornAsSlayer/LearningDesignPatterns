@@ -4,11 +4,11 @@ public class URLBuilder
 {
     public class Builder
     {
-        internal string? protocol;
-        internal string? domainName;
-        internal string? port;
-        internal string? pathName;
-        internal string? queryName;
+        private string? protocol;
+        private string? domainName;
+        private string? port;
+        private string? pathName;
+        private string? queryName;
 
         public Builder Protocol (string protocol)
         {
@@ -44,6 +44,12 @@ public class URLBuilder
         {
             return new URLBuilder(this);
         }
+
+        internal string? GetProtocol() => protocol;
+        internal string? GetDomainName() => domainName;
+        internal string? GetPort() => port;
+        internal string? GetPathName() => pathName;
+        internal string? GetQueryName() => queryName;
     }
 
     public string? protocol;
@@ -54,11 +60,11 @@ public class URLBuilder
 
     private URLBuilder(Builder builder)
     {
-        this.protocol = builder.protocol;
-        this.domainName = builder.domainName;
-        this.port = builder.port;
-        this.pathName = builder.pathName;
-        this.queryName = builder.queryName;
+        this.protocol = builder.GetProtocol();
+        this.domainName = builder.GetDomainName();
+        this.port = builder.GetPort();
+        this.pathName = builder.GetPathName();
+        this.queryName = builder.GetQueryName();
     }
 
 }
