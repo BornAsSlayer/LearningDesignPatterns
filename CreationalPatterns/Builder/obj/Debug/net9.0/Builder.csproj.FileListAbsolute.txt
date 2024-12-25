@@ -1,0 +1,15 @@
+D:\Code\Csharp\vs\DesignPatterns\CreationalPatterns\Builder\bin\Debug\net9.0\Builder.exe
+D:\Code\Csharp\vs\DesignPatterns\CreationalPatterns\Builder\bin\Debug\net9.0\Builder.deps.json
+D:\Code\Csharp\vs\DesignPatterns\CreationalPatterns\Builder\bin\Debug\net9.0\Builder.runtimeconfig.json
+D:\Code\Csharp\vs\DesignPatterns\CreationalPatterns\Builder\bin\Debug\net9.0\Builder.dll
+D:\Code\Csharp\vs\DesignPatterns\CreationalPatterns\Builder\bin\Debug\net9.0\Builder.pdb
+D:\Code\Csharp\vs\DesignPatterns\CreationalPatterns\Builder\obj\Debug\net9.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Csharp\vs\DesignPatterns\CreationalPatterns\Builder\obj\Debug\net9.0\Builder.AssemblyInfoInputs.cache
+D:\Code\Csharp\vs\DesignPatterns\CreationalPatterns\Builder\obj\Debug\net9.0\Builder.AssemblyInfo.cs
+D:\Code\Csharp\vs\DesignPatterns\CreationalPatterns\Builder\obj\Debug\net9.0\Builder.csproj.CoreCompileInputs.cache
+D:\Code\Csharp\vs\DesignPatterns\CreationalPatterns\Builder\obj\Debug\net9.0\Builder.sourcelink.json
+D:\Code\Csharp\vs\DesignPatterns\CreationalPatterns\Builder\obj\Debug\net9.0\Builder.dll
+D:\Code\Csharp\vs\DesignPatterns\CreationalPatterns\Builder\obj\Debug\net9.0\refint\Builder.dll
+D:\Code\Csharp\vs\DesignPatterns\CreationalPatterns\Builder\obj\Debug\net9.0\Builder.pdb
+D:\Code\Csharp\vs\DesignPatterns\CreationalPatterns\Builder\obj\Debug\net9.0\Builder.genruntimeconfig.cache
+D:\Code\Csharp\vs\DesignPatterns\CreationalPatterns\Builder\obj\Debug\net9.0\ref\Builder.dll
